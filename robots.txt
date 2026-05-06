@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robsakura.github.io/snippets-hojdo0/sitemap.xml
